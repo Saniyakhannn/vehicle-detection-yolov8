@@ -106,10 +106,9 @@ vehicle-detection-yolov8/
 ├── app_screenshot.png
 
 │ 
-
 ├── detection_motorcycle.png
-│  
 
+│  
 └── detection_truck.png
 
 └── README.md

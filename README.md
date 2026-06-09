@@ -93,9 +93,13 @@ streamlit run app.py
 
 ## 📁 Project Structure
 vehicle-detection-yolov8/
+
 ├── app.py                 # Streamlit application
+
 ├── best.pt               # Trained YOLOv8 model
+
 ├── requirements.txt      # Dependencies
+
 ├── assets/               # Screenshots
 │   ├── app_screenshot.png
 │   ├── detection_motorcycle.png

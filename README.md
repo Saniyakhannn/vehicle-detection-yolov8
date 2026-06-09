@@ -101,9 +101,17 @@ vehicle-detection-yolov8/
 ├── requirements.txt      # Dependencies
 
 ├── assets/               # Screenshots
-│   ├── app_screenshot.png
-│   ├── detection_motorcycle.png
-│   └── detection_truck.png
+
+│ 
+├── app_screenshot.png
+
+│ 
+
+├── detection_motorcycle.png
+│  
+
+└── detection_truck.png
+
 └── README.md
 ---
 

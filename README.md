@@ -112,6 +112,7 @@ vehicle-detection-yolov8/
 └── detection_truck.png
 
 └── README.md
+
 ---
 
 ## 🛠️ Tech Stack
@@ -129,6 +130,11 @@ vehicle-detection-yolov8/
 
 **Saniya Khan**
 - GitHub: [@Saniyakhannn](https://github.com/Saniyakhannn)
+- 
+
+## 🔗 My Other Projects
+- 🌊 [Flood Area Segmentation](https://github.com/Saniyakhannn/flood-area-segmentation)
+- 🧠 [Brain Tumor Segmentation](https://github.com/Saniyakhannn/brain-tumor-segmentation)
 
 ---
 
